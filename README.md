@@ -2,7 +2,7 @@
 
 Microsoft Exchange Server databases (EDB) rely on the Extensible Storage Engine (ESE) for transactional consistency. Hardware failures, unexpected shutdowns, storage issues, or log corruption can cause databases to enter inconsistent states, preventing them from mounting and disrupting mail services. 
 
-This guide provides a structured approach for diagnosing Exchange database corruption, performing native recovery, and planning your **[Exchange Server recovery](https://www.stellarinfo.com/edb-exchange-server-recovery.htm)** strategy to restore mailbox data when the Exchange environment cannot be recovered quickly.
+This guide provides a structured approach for diagnosing Exchange database corruption, performing native recovery, and planning your **[Exchange Server recovery]https://www.stellarinfo.com/blog/setup-m-recoverserver-switch-exchange-server-2010-2013-2016/)** strategy to restore mailbox data when the Exchange environment cannot be recovered quickly.
 
 ## Common Causes of Exchange Database Corruption
 
